@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sterope", "Sterope\Sterope.csproj", "{BE25FADD-8039-478D-BF7D-7D03CF4CF49B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteropeW", "SteropeW\SteropeW.csproj", "{FFE6B8F7-4054-42DF-8417-4D0B974AB8DC}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BE25FADD-8039-478D-BF7D-7D03CF4CF49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE25FADD-8039-478D-BF7D-7D03CF4CF49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE25FADD-8039-478D-BF7D-7D03CF4CF49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE25FADD-8039-478D-BF7D-7D03CF4CF49B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FFE6B8F7-4054-42DF-8417-4D0B974AB8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFE6B8F7-4054-42DF-8417-4D0B974AB8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE6B8F7-4054-42DF-8417-4D0B974AB8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
